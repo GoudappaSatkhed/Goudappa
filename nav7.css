@@ -1,0 +1,14 @@
+nav{
+    border: 2px solid aqua;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: space-evenly;
+    height: 75px;
+}
+.menu{
+    border: 2px solid white;
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}

@@ -1,0 +1,25 @@
+nav{
+    border: 2px solid green;
+    background-color:black;
+    display: flex;
+    justify-content: space-evenly;
+    height: 75px;
+    color: antiquewhite;
+}
+.logo{
+    width: 20%;
+    border: 2px solid blue;
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+    color: antiquewhite;
+    background-color: blue;
+}
+.menu{
+    width: 80%;
+    border: 2px solid blue;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    opacity: 60%;
+}

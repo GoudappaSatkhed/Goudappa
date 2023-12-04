@@ -1,0 +1,26 @@
+nav{
+    border: 2px solid aqua;
+    background-color: blanchedalmond;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: ;
+    height: 75px;
+}
+.logo{
+    width: 25%;
+    border: 2px solid blue;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.menu{
+    width: 75%;
+    border: 2px solid blue;
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+
+}
+img{
+    height: 75px;
+    width: 340px;
+}
